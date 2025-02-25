@@ -35,11 +35,12 @@ Frontend (User Interface)
    Defines the layout and styling of the web interface.
    Includes styles for buttons, video elements, and alerts.
   HTML Pages
-
   index.html (not uploaded) – Likely the main page.
   blog.html – Provides information on spy cam threats.
   about.html – Explains the project's mission.
-5. Results & Future Enhancements
+
+
+6. Results & Future Enhancements
    The project successfully detects objects resembling spy cameras.
    Future improvements could include:
    Better object recognition for various spy cam types.
